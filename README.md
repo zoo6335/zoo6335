@@ -9,12 +9,11 @@
 	<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"><br>
 	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"> <img src="https://img.shields.io/badge/Amazon AWS-000000?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/Notion-232F3E?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white"> 
 	<h3/>⚡ Portfolio ⚡</h3>
-	<a href="https://www.notion.so/Zoo-tion-4917dc76aa1c47a794e30a0fdedb31ac">
+	<a href="https://www.notion.so/902422ffb31b43d3a854eadef61c72e6">
 		<img src="https://img.shields.io/badge/👉🏻Check%20Portfolio👈🏻-00008a?style=for-the-badge&logo=Notion&logoColor=white" />
 	</a>
 	<h3/> Git Status </h3>
-	
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoo6335&show_icons=true&theme=radical)
-	<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoo6335&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=b520bd&height=150&section=footer&text=Thank%20you%20for%20visiting!&fontSize=50&animation=fadeIn&fontAlignY=75" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=b520bd&height=150&section=footer&text=Thank%20you%20for%20visiting!&fontSize=50&animation=fadeIn&fontAlignY=75" />
 </div>
