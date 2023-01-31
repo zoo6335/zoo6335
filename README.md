@@ -8,10 +8,6 @@
 	<h3/>🎮 Tools 🎮</h3>
 	<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"><br>
 	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"> <img src="https://img.shields.io/badge/Amazon AWS-000000?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/Notion-232F3E?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white"> 
-	<h3/>⚡ Portfolio ⚡</h3>
-	<a href="https://www.notion.so/902422ffb31b43d3a854eadef61c72e6">
-		<img src="https://img.shields.io/badge/👉🏻Check%20Portfolio👈🏻-00008a?style=for-the-badge&logo=Notion&logoColor=white" />
-	</a>
 	<h3/> Git Status </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoo6335&show_icons=true&theme=radical)
