@@ -1,5 +1,6 @@
 <div align="center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=b520bd&height=200&section=header&text=Welcome%20to%20Juyeon's%20Github🤓&fontSize=50&animation=fadeIn&fontAlignY=40" />
+	<div><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzoo6335&count_bg=%23D68AB4&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false"/></a></div>
 	<h1/>❤ Tech Stack ❤</h1>
 	<h3/>🛠 Languages & Platforms 🛠</h3>
 	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"><br>
@@ -13,3 +14,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoo6335&show_icons=true&theme=radical)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=b520bd&height=150&section=footer&text=Thank%20you%20for%20visiting!&fontSize=50&animation=fadeIn&fontAlignY=75" />
 </div>
+
